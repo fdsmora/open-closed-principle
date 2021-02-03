@@ -13,5 +13,5 @@ func main() {
 	sumCalc.Sum(2, 3)
 	fmt.Println("Sum is ", sumCalc.Result())
 	substractCalc.Substract(6, 2)
-	fmt.Println("Substraction is ", sumCalc.Result())
+	fmt.Println("Substraction is ", substractCalc.Result())
 }
