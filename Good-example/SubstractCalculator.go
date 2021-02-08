@@ -1,4 +1,4 @@
-package Calculator
+package Good_example
 
 type SubstractCalculator struct {
 	Calculator
