@@ -1,4 +1,4 @@
-package Calculator
+package Bad_example
 
 type Calculator struct {
 	result float64
